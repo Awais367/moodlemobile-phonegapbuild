@@ -7721,7 +7721,7 @@ em {
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #fff; }
   .bar-content .title {
-    color: #fff; }
+    /*color: #fff;*/ }
   .bar-content .button {
     border-color: transparent;
     background-color: #f70;
@@ -8142,7 +8142,7 @@ mm-timer.mm-timer.mm-timer-timeleft-15 {
 
 .bar-side-menu {
   border-color: transparent;
-  background-color: #f70;
+  background-color: #005490;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #fff;
   height: 80px !important; }
